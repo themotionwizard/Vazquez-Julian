@@ -1,0 +1,133 @@
+*{
+    box-sizing: border-box;
+    margin: auto;
+}
+a{color: rgb(223, 213, 85);}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #0f0e17;
+}
+.header{align-content: center;
+    padding-top: 50px;
+}
+.navegador{
+    width: 100%;
+    margin: auto;
+    padding: 30px;
+    list-style: none;
+    color: #fffffe;
+    background: #f25f4c;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    position: fixed;
+}
+.navegador li{display: inline-block;
+    margin: 1140;
+    color: rgb(255, 255, 255);
+}
+.navegador li a{margin: auto;
+    width: 1140px;
+    padding: 30px;
+    color: rgb(255, 255, 255);
+}
+.navegador li a:hover{
+    background-color: #a7a9be;
+    color: rgb(0, 0, 0);
+}
+.cajaheader{padding-top: 30px;
+    padding-left: 500px;
+}
+    
+#hacheuno{
+    font-size: 0%;
+}
+.contenedor{
+    width: 1140px;
+    margin:auto;
+    padding: 50px 0px;
+    background: #16161a;
+    color: #fffffe;
+    font-size: small;
+}
+.sobre_mi_fondo{
+    background-image: url(img/imagenfondo.jpg);
+    
+}
+.sobre_mi{
+    width: 1140px;
+    margin:auto;
+    padding: 50px 100px;
+    color: #fffffe;
+    font-size: small;
+}
+.texto_sobremi{
+    display: inline-block;
+    width: 500px;
+    padding: 50px;
+    font-size: large;
+}
+.img_sobremi{
+    display: inline-block;
+    padding: 20px;
+}
+.boton{
+    float: right;
+    padding-right: 130px;
+}
+.contenedor_02{width: 1140px;
+    margin:auto;
+    padding: 50px 100px;
+    background: #72757e;
+    color: #fffffe;
+    font-size: large;
+}
+.inlinetext{
+    width: 150px;
+}
+.pgr_cuatri{
+    padding: 50px;
+}
+.programas{
+    display: inline-block;
+    padding: 20px;
+}
+.programas_02{display: inline-block;
+    margin: 30px;
+}
+.contenedor_03{width: 1140px;
+    margin:auto;
+    padding: 50px 100px;
+    background: #e53170;
+    color: #fffffe;
+    font-size: large;
+}
+.tps{width: 350px;
+    display: inline-block;
+}
+.trabajoscuatri{
+    display: inline-block;
+    padding: 20px;
+}
+.inlinetext2{
+    width: 350px;
+}
+.trabajoscuatri2{display: inline-block;
+    padding: 25px;
+}
+.footer{
+    color: #fffffe;
+    display: inline-block;
+}
+.redes{
+    list-style: none;
+}
+.redes li{display: inline-block;
+    margin: 1140;
+}
+.redes li a{margin: auto;
+    width: 1140px;
+    padding: 10px;}
+#copyright{
+    color: #fffffe;
+}
